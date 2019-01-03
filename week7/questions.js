@@ -305,7 +305,3 @@ const questions = {
         }
     }
 }
-
-
-
-
